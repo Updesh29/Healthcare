@@ -57,7 +57,7 @@ Outcome	Class variable (either 0 or 1). 268 of 768 values are 1, and the others 
 
 # Data Reporting:
 
-2. Create a dashboard in tableau by choosing appropriate chart types and metrics useful for the business. The dashboard must entail the following:
+Create a dashboard in tableau by choosing appropriate chart types and metrics useful for the business. The dashboard must entail the following:
 
 a. Pie chart to describe the diabetic or non-diabetic population
 
